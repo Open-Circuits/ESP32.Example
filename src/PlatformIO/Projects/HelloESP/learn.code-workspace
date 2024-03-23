@@ -1,0 +1,12 @@
+{
+	"folders": [
+		{
+			"path": "../../../../dev/esp32/learn"
+		},
+		{
+			"name": "HelloESP",
+			"path": "."
+		}
+	],
+	"settings": {}
+}
